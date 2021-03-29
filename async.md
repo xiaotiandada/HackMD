@@ -1,6 +1,8 @@
 Features
 ===
 
+hello world
+
 Introduction
 ===
 <i class="fa fa-file-text"></i> **CodiMD** is a real-time, multi-platform collaborative markdown note editor.
